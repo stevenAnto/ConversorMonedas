@@ -2,7 +2,7 @@
 
 ## Índice
 
-1. [Descripción del Proyecto](#descripción-del-proyecto)
+1. [Descripción del Proyecto](##Descripción del Proyecto)
 2. [Instrucciones de Uso](#instrucciones-de-uso)
 3. [Dependencias](#dependencias)
 4. [Estructura del Proyecto](#estructura-del-proyecto)
