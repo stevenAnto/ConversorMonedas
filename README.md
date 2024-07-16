@@ -1,14 +1,13 @@
 # Conversor de Monedas con Consumo de API
 
 ## Índice
-
-1. [Descripción del Proyecto](##Descripción del Proyecto)
-2. [Instrucciones de Uso](#instrucciones-de-uso)
-3. [Dependencias](#dependencias)
-4. [Estructura del Proyecto](#estructura-del-proyecto)
-5. [Configuración y Ejecución](#configuración-y-ejecución)
-6. [Acerca de las Bibliotecas Utilizadas](#acerca-de-las-bibliotecas-utilizadas)
-7. [Contacto y Soporte](#contacto-y-soporte)
+1. [Descripción del Proyecto](#1-descripción-del-proyecto)
+2. [Instrucciones de Uso](#2-instrucciones-de-uso)
+3. [Dependencias](#3-dependencias)
+4. [Estructura del Proyecto](#4-estructura-del-proyecto)
+5. [Configuración y Ejecución](#5-configuración-y-ejecución)
+6. [Acerca de las Bibliotecas Utilizadas](#6-acerca-de-las-bibliotecas-utilizadas)
+7. [Contacto y Soporte](#7-contacto-y-soporte)
 
 
 ---
