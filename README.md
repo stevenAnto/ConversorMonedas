@@ -54,8 +54,9 @@ Para ejecutar el proyecto:
 
 1. **Clona el Repositorio:**
    ```bash
-   git clone <url-del-repositorio>
+   git clone <https://github.com/stevenAnto/ConversorMonedas.git>
    cd conversor-de-monedas
+   ```
 # Compilación y Ejecución
 
 Para compilar y ejecutar el proyecto:
